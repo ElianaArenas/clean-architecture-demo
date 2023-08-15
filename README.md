@@ -1,6 +1,6 @@
 # Clean Architecture Demo
 
-###🏗️ Built With
+### 🏗️ Built With
 
 - nestjs
 - mongoose
@@ -17,17 +17,17 @@ copy and rename .env.template to .env and fill all necesary params
 ### Running the project
 
 ```bash
- # Development mode
- 	$ npm run start   #or
-	$ yarn start
+# Development mode
+$ npm run start   #or
+$ yarn start
 
 #  Watch mode
-  $ npm run start:dev  #or
-	$ yarn start:dev
+$ npm run start:dev  #or
+$ yarn start:dev
 
 #  Production mode
-  $ npm run start:prod    #or
-  $ yarn start:prod
+$ npm run start:prod    #or
+$ yarn start:prod
 
 ```
 
